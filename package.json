@@ -1,6 +1,6 @@
 {
-  "name": "@cyntler/react-doc-viewer",
-  "version": "1.11.0",
+  "name": "@harvey.ai/react-doc-viewer",
+  "version": "1.11.1",
   "description": "File viewer for React.",
   "author": "Matthew Mogford / Damian Cyntler",
   "keywords": [
@@ -10,7 +10,11 @@
   "license": "Apache License 2.0",
   "homepage": "https://cyntler.github.io/react-doc-viewer",
   "repository": {
-    "url": "https://github.com/cyntler/react-doc-viewer"
+    "url": "https://github.com/harveyai/react-doc-viewer"
+  },
+  "publishConfig": {
+    "access": "public",
+    "@kakadiya91:registry": "https://npm.pkg.github.com"
   },
   "files": [
     "dist/**"

@@ -25,7 +25,7 @@ export const initialPDFState: IPDFState = {
   defaultZoomLevel: 1,
   zoomLevel: 1,
   zoomJump: 0.1,
-  paginated: true,
+  paginated: false,
   numPages: 0,
   currentPage: 1,
 };
